@@ -5,7 +5,7 @@
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     <option name="PARENT_ENVS" value="true" />
     <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_texture_mapping.sh" />
-    <option name="PARAMETERS" value="full19_handoff cube_large" />
+    <option name="PARAMETERS" value="full23_handoff camera-0" />
     <module name="" />
     <method />
   </configuration>
